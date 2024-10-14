@@ -4,8 +4,9 @@
 
 ###### My Smallest Part
 
-> [!INFO]
-> Contenu informatif important
+- ma
+- nouvelle
+- liste
 
 ```
 function myFirstCode () {}
